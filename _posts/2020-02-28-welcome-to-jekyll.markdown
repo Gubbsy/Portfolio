@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Habitat - A Full Stack Mobile App"
 date:   2020-02-28 18:45:50 +0000
 categories: jekyll update
 ---

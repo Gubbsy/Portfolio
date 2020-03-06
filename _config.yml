@@ -21,14 +21,18 @@
 title: Adam Lee
 email: adamjlee5@aol.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A Portfolio site disaplying all my skill sets and previouse experience.
-baseurl: "" # the subpath of your site, e.g. /blog
+  Feel free to contact me with regards to any questions, queries or opportunities.
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
 github_username:  Gubbsy
+linkedin_username: adamjlee5
 
 # Build settings
 theme: minima
+
+minima:
+  skin: sunrise
+  
 plugins:
   - jekyll-feed
 
@@ -39,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
