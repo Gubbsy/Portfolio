@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Habitat - A Full Stack Mobile App"
+date:   2020-01-12
+tools:  NodeJS | TypeScript | JavaScript | Angular8 | Ionic | Crodova | C# | ASP.NetCore | Enitity Framework Core
+categories: project
+---
+
+![](/assets/images/habitat.png)
+
+Habitat is a mobile application born out of collective experiences of living in shared rental accommodation. It looks to solve issues surrounding property management and maintenance - providing a single platform for information and communications between landlords and tenants. 
+
+The application was developed as a team amongst 3 University colleagues, where I assumed the role of Project Lead and Frontend Developer. 
+
+# Skills Developed
+* Contructing a native mobile technology stack.
+* Designing and implementing an abstract API layer for Frontend/Server communications.
+* Managing, Analysing, Iterating and Deligatigating development task within a small agile scrum team. (Using Trello and Planaway) 
+* Utilising dependency injections to provide manageable, testable and reusable frontend services. 
+
+# Overall Outcomes
+This project provided me with the opportunity to collaborate and develop a technology stack that builds to native mobile devices. The frontend of the application was constructed using Angular 8 and Ionic Cordova - allowing cross-platform building with access to OS-specific functionality. The backend was written using ASP.NetCore and made use of Entity Framework to craft a NoSQL database layer for a rapid development environment. 
+
+Assuming the role of Project Lead was quite daunting a first, however, I quickly found my feet amongst the team and through daily stand-up meetings, weekly retrospectives and hands-on task delegation, as a team, we were able to deliver a working prototype in a short span of only 12 weeks. 
+Under the role of Project Lead, I was also responsible to extracting user-stories from potential user interviews and broke each user story down into development task for us to complete - using tools such as Trello and Github Cards to organise and manage tasks. 
+
+# Links
+[Habitat Release Page][habitat-release-page]  
+[Frontend Repo][frontend-repo]  
+[Server Repo][server-repo]
+
+
+[habitat-release-page]: https://habitat.ebrisoft.com/index.html
+[frontend-repo]: https://github.com/Ebrisoft/Frontend
+[server-repo]: https://github.com/Ebrisoft/Backend

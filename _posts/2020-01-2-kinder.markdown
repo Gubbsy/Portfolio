@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Kinder - Rate My Kitties"
+date:   2020-01-02
+tools:  NodeJS | TypeScript | Angular8 | Express | Socket.io | MongoDB
+categories: project
+---
+
+![](/assets/images/kinder.png)
+
+Kinder was a fun little project I created during university where users could visit a site that presents them with cat images they can rate using emojis. Each vote they cast adds to cat's overall cuteness rating, with a live-updated feed of the Top 5 cats presented at the bottom of the page. The frontend of the application s built using the Angular 8 framework, while the backend is constructed using express with using an MVC repository pattern with a supporting MongoDB DB layer. 
+
+# Skills Developed
+* Independent Full-stack architecture design.
+* Use of WebSockets, Cookies and JSON web-tokens.
+* Web API development using Express.
+* Use of MongoDB in a document repository context. 
+* Applying a Test Driven Development (TDD) Strategy and leveraging Dependency Injection for code testability. 
+* Implementing a CI pipeline, ensuring high-quality code. 
+
+# Overall Outcomes
+This project helped to clarify some core concepts within Web API development and apply industry-standard technologies (WebSockets/Cookies/JSON web-tokens) I was yet to experience. The project also forced a necessity to consider the wider architecture of the applications and consider service interactions on a greater scale, I eventually settled on an MVC Repository pattern as it decoupled business logic within the business logic from the database access layer. 
+
+This was also my first project were I applied TDD approach to which I saw great benefit. From the get-go to consider how my application would be constructed and designed and consider how I would ensure each element of my code was testable. I implemented an Azure CI pipeline to build and produce test reports, certifying my application could build and run outside of my development environment. 
+
+# Links
+[Kinder Repository][kinder-repository]  
+
+[kinder-repository]: https://github.com/Gubbsy/SOFT355-Kinder

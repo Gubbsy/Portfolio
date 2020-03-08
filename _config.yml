@@ -37,12 +37,6 @@ plugins:
   - jekyll-feed
 
 defaults: 
-  - 
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
 
 
 # Exclude from processing.
