@@ -5,9 +5,9 @@ date:   2018-04-18
 tools:  3DS Max | C# | Unity 3D 
 categories: project
 ---
-![](/assets/images/animated-door.gif)
+![]({{site.baseurl}}/assets/images/animated-door.gif)
 <br><br>
-![](/assets/images/the-factory-gif.gif)
+![]({{site.baseurl}}/assets/images/the-factory-gif.gif)
 
 During my second year at university, I had my first taste of designing, texturing and implementing 3D models within a Unity scene. The experience was a welcomed change from the heavy programming modules that were running in tangent with this project and during this time I created several experiences to experiment with modelling techniques and scene interaction and lighting.  
 

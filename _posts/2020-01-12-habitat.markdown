@@ -6,7 +6,7 @@ tools:  NodeJS | TypeScript | JavaScript | Angular8 | Ionic | Crodova | C# | ASP
 categories: project
 ---
 
-![](/assets/images/habitat.png)
+![]({{site.baseurl}}/assets/images/habitat.png)
 
 Habitat is a mobile application born out of collective experiences of living in shared rental accommodation. It looks to solve issues surrounding property management and maintenance - providing a single platform for information and communications between landlords and tenants. 
 
