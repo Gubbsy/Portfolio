@@ -6,7 +6,7 @@ tools:  NodeJS | TypeScript | Angular8 | Express | Socket.io | MongoDB
 categories: project
 ---
 
-![](/assets/images/kinder.png)
+![]({{site.baseurl}}/assets/images/kinder.png)
 
 Kinder was a fun little project I created during university where users could visit a site that presents them with cat images they can rate using emojis. Each vote they cast adds to cat's overall cuteness rating, with a live-updated feed of the Top 5 cats presented at the bottom of the page. The frontend of the application s built using the Angular 8 framework, while the backend is constructed using express with using an MVC repository pattern with a supporting MongoDB DB layer. 
 

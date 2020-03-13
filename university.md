@@ -1,20 +1,20 @@
 ---
 layout: page
-title: University
+title: University 🎓
 permalink: /university/
 ---
 
 During my time at Plymouth University I have undertaken modules that cover Games Developemnt as well as Computing and Software Development as a whole. Below follows the modules, topics and grades achieved for each respective stage. 
 
-# Year 3 - 1st (TBC)
+# Year 3 - 1st (Predicted)
 
-| Module                                                    | Topics                                                            |Grade (%)    | 
-|-----------------------------------------------------------|-------------------------------------------------------------------|-------------| 
-| Programming for Entertainment Systems                     | C++ Application Development with industry Standard Tools (OpenGL) | 76.20       |
-| Design for Entertainment Systems                          | User Centered Design, Testing and UX Experience                   | 78.70       |
-| Distributed Application Development                       | Web Application Development, Deployment and Technologies          | 84.00       |
-| Industry Engagement                                       | Live Client Project (Focusing on Project & Client Management)     | (TBC)       |
-| Final Bsc(Hons) Project                                   | Live Client Project (Focusing on Project & Client Management)     | (TBC)       |
+| Module                                                    | Topics                                                              |Grade (%)    | 
+|-----------------------------------------------------------|---------------------------------------------------------------------|-------------| 
+| Programming for Entertainment Systems                     | C++ Application Development with industry Standard Tools (OpenGL)   | 76.20       |
+| Design for Entertainment Systems                          | User Centered Design, Testing and UX Experience                     | 78.70       |
+| Distributed Application Development                       | Web Application Development, Deployment and Technologies            | 84.00       |
+| Industry Engagement                                       | An opertunity to engage with the industry, self-promote and upskill | (TBA)       |
+| Final Bsc(Hons) Project                                   | The culmination of the degree through an indipendent project, demonstrating the skills developed over the 3 Year Course    | (TBA)       |
 
 # Year 2 - 1st
 

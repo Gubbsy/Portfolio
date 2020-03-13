@@ -5,7 +5,7 @@ date:   2020-01-06
 tools:  C++ | OpenGL | GLM | GLU 
 categories: project
 ---
-![](/assets/images/shader-tester.png)
+![]({{site.baseurl}}/assets/images/shader-tester.png)
 
 This project was my first experience with an unmanaged language such as C++. I created a consol driven application that could dynamically read and render both `.obj` and `.dae` files while also providing the ability to dynamically swap the vertex and fragment shaders applied to the rendered model.
 
