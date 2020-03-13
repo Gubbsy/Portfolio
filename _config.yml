@@ -36,8 +36,10 @@ minima:
 plugins:
   - jekyll-feed
 
-defaults: 
-
+header_pages:
+  - projects.md
+  - university.md
+  - blog.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
