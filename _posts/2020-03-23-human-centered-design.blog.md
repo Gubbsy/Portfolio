@@ -1,16 +1,16 @@
 ---
 layout: blog
-title:  Human-Centered Design
+title:  Human-Centred Design
 date:   "2020-03-23"
 summary: The problem solving strategy that puts the consumer's needs first when building a solution from the ground up!
 categories: blog
 ---
 
-Human-centered design is an approach to solutions development that puts the user's needs first when tackling an issue. 
-Using a human centered design approach requires you to involve the end-user in every step of the design and development cycle: from the initial requirements analysis all the way through to the release of the final solution. You must learn to deeply understand the final product user, empathizing with the real life problems they face in order to produce an ergonomic solution they will embrace. 
+Human-centred design is an approach to solutions development that puts the user's needs first when tackling an issue. 
+Using a human centred design approach requires you to involve the end-user in every step of the design and development cycle: from the initial requirements analysis all the way through to the release of the final solution. You must learn to deeply understand the final product user, empathizing with the real life problems they face in order to produce an ergonomic solution they will embrace. 
 
-## Human-Centered Design Process
-The Human-Centered design can be broken down into 3 main processes. 
+## Human-Centred Design Process
+The Human-Centred design can be broken down into 3 main processes. 
 
 ### Phase One: Inspiration & Understand the User and their Needs
 ---  
@@ -28,7 +28,7 @@ Once this consumer data is extracted it is important to analyse the data in such
 <br>
 The next step is to culminate this understanding to develop a solution that remedies the significant issues a consumer faces, while also not disturbing existing, tried and tested, implementations they currently hold (the solution doe not generate new problems when implemented). 
 
-This is the time to sit down and brainstorm ideas, exploring a vast number of options that may be completing unrelated to one another or worlds apart. Once a number of proposals have been outlined and tweaked it's time to settle on a realistic and human-centered idea that could solve the consumer's problem.
+This is the time to sit down and brainstorm ideas, exploring a vast number of options that may be completing unrelated to one another or worlds apart. Once a number of proposals have been outlined and tweaked it's time to settle on a realistic and human-centred idea that could solve the consumer's problem.
 
 As soon as an idea is selected it is important to create a prototype as soon as possible (be it paper-based, static walk-throughs or core-functionality demos). These prototypes need to then be tested with the consumer to ensure the viability of a solution and identify areas of improvement with a 'Fail Fast' approach. You must repeat this step until a solution is produced that the consumer agrees improves their routines and solves their problems. 
 <br><br>
