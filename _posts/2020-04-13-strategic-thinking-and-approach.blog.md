@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Strategic Thinking and Approach
-date:   "2020-03-27"
+date:   "2020-04-13"
 summary: The skills that have helped me with!  
 categories: blog
 ---
