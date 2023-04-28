@@ -6,15 +6,15 @@ permalink: /university/
 
 During my time at The University of Plymouth, I have undertaken modules that cover not only Games, but Computing and Software Development as a whole. Below follows the modules, topics and grades achieved for each respective degree stage. 
 
-# Year 3 - 1st (Predicted)
+# Year 3 - 1st Class Honors
 
 | Module                                                    | Topics                                                              |Grade (%)    | 
 |-----------------------------------------------------------|---------------------------------------------------------------------|-------------| 
 | Programming for Entertainment Systems                     | C++ Application Development with industry Standard Tools (OpenGL)   | 76.20       |
 | Design for Entertainment Systems                          | User Centered Design, Testing and UX Experience                     | 78.70       |
 | Distributed Application Development                       | Web Application Development, Deployment and Technologies            | 84.00       |
-| Industry Engagement                                       | An opportunity to engage with the industry, self-promote and up-skill| (TBA)       |
-| Final Bsc(Hons) Project                                   | The culmination of the degree through an independent project, demonstrating the skills developed over the 3 Year Course    | (TBA)       |
+| Industry Engagement                                       | An opportunity to engage with the industry, self-promote and up-skill| 95.00       |
+| Final Bsc(Hons) Project                                   | The culmination of the degree through an independent project, demonstrating the skills developed over the 3 Year Course    | 90.00       |
 
 # Year 2 - 1st
 
