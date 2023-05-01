@@ -13,7 +13,7 @@ A 1st Class Honors Computing and Games Development graduate of Plymouth Universi
 
 I first delved into the world of software development and programming at the age of 15 through a DOS terminal emulator, experimenting with sorting algorithms and text-based RPGs in BASIC. After this, I quickly moved on to VB and created my first game - an 8-bit Snake clone. 🐍
 
-In more recent years my degree allowed me to steer away from video games, and after a year's industrial placement with HM Land Registry, I discovered a new interest in emerging web technologies. I began working on end-to-end, full-stack, software solutions that encompassed the automation of grand corporate tasks such as The Digitalisation of Mortgage Applications and The Modernisation of Lottery Grant Aquisitions. Overall, this experience was invaluable and exposed me to the possibilities and approaches applied within within corporate Software Development. 
+In more recent years my degree allowed me to steer away from video games, and after a year's industrial placement with HM Land Registry, I discovered a new interest in emerging web technologies. I began working on end-to-end, full-stack, software solutions that encompassed the automation of grand corporate tasks such as The Digitalisation of Mortgage Applications and The Modernisation of Lottery Grant Acquisition. Overall, this experience was invaluable and exposed me to the possibilities and approaches applied within within corporate Software Development. 
 
 
 ## Languages
