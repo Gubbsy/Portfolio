@@ -9,7 +9,7 @@ author_profile: true
 
 # Software Engineer & Full Stack Developer
 
-Graduating University in July 2020 as a student of Computing and Games Development at The University of Plymouth with First Class Honors.
+Graduating University in July 2020 as a student of Computing and Games Development at The University of Plymouth with First Class Honors, and 5 years industry expereince.
 
 I first delved into the world of software development and programming at the age of 16 through a DOS terminal emulator, playing around with sorting algorithms and text-based RPGs in BASIC. After this, I quickly moved on to VB and created my first game - an 8-bit Snake clone. 🐍
 
